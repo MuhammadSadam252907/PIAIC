@@ -1,3 +1,4 @@
 # PIAIC
-This is my first repo in giut hub
-author name is Muhammad SAdam
+This is my first repo in github
+<br>
+author name is Muhammad Sadam
